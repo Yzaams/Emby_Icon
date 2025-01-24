@@ -1,6 +1,6 @@
 {
-"name":"Fileball Icon", 
-"description":"图标按照服名或群名命名，按照A-Z排列，方便查找。Fileball可以在图标搜索框搜索图标名。", 
+"name":"Emby_Icon", 
+"description":"圆形图标。", 
 "icons":
     [
 	{"name":"Temby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Temby1.png"},
