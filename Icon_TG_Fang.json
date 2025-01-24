@@ -1,0 +1,18 @@
+{
+"name":"TG_Fang", 
+"description":"方形图标。", 
+"icons":
+    [
+	{"name":"Temby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Temby1.png"},
+	{"name":"Lyrebird", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Lyrebird.png"},
+	{"name":"Gugu", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Gugu.png"},
+        {"name":"Peach", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Peach1.png"},
+	{"name":"AuroraMedia", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/AuroraMedia1.png"},
+	{"name":"Feiyuecaihong", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Feiyuecaihong.png"},
+	{"name":"Terminus", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Terminus.png"},
+	{"name":"Nya", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Nya.png"},
+	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/PiliPili.png"},
+	{"name":"Zpr", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/ZhiPianRen.png"},
+	{"name":"Feiyueyinhe", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/Fang/Feiyueyinhe.png"},      
+    ]
+}
