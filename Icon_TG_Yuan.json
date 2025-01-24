@@ -3,17 +3,17 @@
 "description":"圆形图标。", 
 "icons":
     [
-	{"name":"Temby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Temby1.png"},
-	{"name":"Lyrebird", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Lyrebird.png"},
-	{"name":"Gugu", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Gugu.png"},
-        {"name":"Peach", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Peach1.png"},
-	{"name":"AuroraMedia", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/AuroraMedia1.png"},
-	{"name":"Feiyuecaihong", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Feiyuecaihong.png"},
-	{"name":"Terminus", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Terminus.png"},
-	{"name":"Nya", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Nya.png"},
+	{"name":"Temby", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Temby1.png"},
+	{"name":"Lyrebird", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Lyrebird.png"},
+	{"name":"Gugu", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Gugu.png"},
+        {"name":"Peach", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Peach1.png"},
+	{"name":"AuroraMedia", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/AuroraMedia1.png"},
+	{"name":"Feiyuecaihong", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Feiyuecaihong.png"},
+	{"name":"Terminus", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Terminus.png"},
+	{"name":"Nya", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Nya.png"},
 	{"name":"Nijigem", "url":"https://raw.githubusercontent.com/baiitang/Sakura/main/Fileball/Yuan/icon/Nijigen3.png"},
-	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/PiliPili.png"},
-	{"name":"Zpr", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/ZhiPianRen.png"},
-	{"name":"Feiyueyinhe", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/refs/heads/main/YUAN/Feiyueyinhe.png"},
+	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/PiliPili.png"},
+	{"name":"Zpr", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/ZhiPianRen.png"},
+	{"name":"Feiyueyinhe", "url":"https://raw.githubusercontent.com/Rch89/emby_icon/main/YUAN/Feiyueyinhe.png"},
     ]
 }
